@@ -4,6 +4,8 @@ Railway Guardian is a comprehensive, production-ready Command, Control, Communic
 
 This platform integrates real-time IoT sensors, AI-driven computer vision, and machine learning predictive analytics into a unified, high-performance dashboard featuring an authentic Indian Government NIC-inspired design system.
 
+![ss](ss.png)
+
 ---
 
 ## 🌟 Core Features
